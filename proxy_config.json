@@ -1,0 +1,10 @@
+[
+  {
+    "sourceDomain": "example.com",
+    "redirectDomain": "newexample.com"
+  },
+  {
+    "sourceDomain": "mydomain.com",
+    "redirectDomain": "mynewdomain.com"
+  }
+]
